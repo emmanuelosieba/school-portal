@@ -1,0 +1,169 @@
+body{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f6f8;    
+}
+ .top-header{
+    background: linear-gradient(to right) #003366 #0055aa;
+  color: white;
+    padding: 400px 10px;
+   text-align: center;
+ }
+ .top-header h1{
+    margin: 0;
+    font-size: 36px;
+ }
+ .top-header p {
+    margin-top: 10px;
+    font-size: 16px;
+ }
+ .navbar {
+    background:#004080;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 15px;
+ }
+ .navbar a {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+ }
+ .hero{
+    background: white;
+    text-align: center;
+    padding: 50px 20px;
+ }
+ .hero h2 {
+    font-size: 28px;
+ }
+ footer{
+    background: #003366;
+    color: white;
+    text-align: center;
+    padding: 10px;
+ }
+header{
+   background: #003366;
+   color: white;
+   padding: 20px;
+   text-align: center;
+}
+nav{
+  background: #0055aa;
+  padding: 10px;
+  text-align: center;   
+}
+nav a {
+   color: #f4f6f8;
+   margin: 10px;
+   text-decoration: none;
+}
+.hero{
+   padding: 40px;
+   text-align: center;
+}
+footer{
+   background: #003366;
+   color:white;
+   text-align: center;
+   padding: 10px;
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+}
+.login-box{
+   width:  300px;
+   background:#0055aa;
+   padding: 20px;
+   margin: 100px auto;
+   border-radius: 5px;
+}
+
+input{
+   width: 90%;
+   padding: 10px;
+   margin: 10px 0;
+}
+button{
+   padding: 10px 20px ;
+   background:black;
+   color: white;
+   border: none;
+   cursor: pointer;
+}
+.dashboard{
+   padding: 20px;
+   text-align: center;
+}
+.admission{
+   width: 300px;
+   background-color: #0055aa;
+   padding-left: 20px;
+   margin: 1000px auto;
+   border-radius: 5px;
+   color: #0055aa;
+}
+.result-table{
+   width: 80%;
+   margin: 30px auto;
+   border-collapse: collapse;
+   background: white;
+}
+.result-table th, .result-table td{
+   border: 1px solid #ccc;
+   padding: 12px;
+   text-align: center;
+}
+.result-table th{
+   background: #003366;
+   color: white;
+}
+.timetable{
+   width: 80%;
+   margin: 10px auto;
+   border-collapse: collapse;
+   background: white;
+}
+.timetable th, .timetable td{
+   border: 1px solid #ccc;
+   padding: 15px;
+   text-align: center;
+}
+.timetable th{background: #003366;
+   color: white;
+   
+}
+.admission.html{
+  width: 80%;
+   margin: 30px auto;
+   background:#003366;
+   padding: 12px;
+   text-align: center;
+   background-color: #0055aa;
+                                                                                                                                                               
+}
+{
+   width: 80%;
+   margin: 30px auto;
+   border-collapse: collapse;
+   background: white;
+   
+}
+
+.schoolfees-table th, .schoolfees-table td{
+    border: 1px solid #ccc;
+   padding: 12px;
+   text-align: center;
+}
+.schoolfees-table th{
+background: #003366;
+background: white;
+}
+.schoolfees-table please pay unto First Bank Account{
+   text-align: center;}
+
+ 
+
+
+   
